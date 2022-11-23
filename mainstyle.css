@@ -1,0 +1,79 @@
+/* Type your main CSS styles here */
+body{
+	font-family:Montserrat;
+	background-color:white;
+	padding-top:0px;
+	margin-top:0px;
+	font-size:18px;
+	}
+div#navigation{
+    text-align:center;
+	width:1180px;
+	background-color:#014709;
+	margin-top:1px;
+	margin-left:100px;
+	padding:10px;
+	}	
+div#header{		
+	line-height:150px;
+	width:100%;
+	height:290px;
+	margin-left:100px;
+	}
+div#sidebar{
+    background-color:#d3d3d3;
+	opacity:0.6;
+	width:270px;	
+    height:1900px;	
+	margin-left:20px;
+	margin-top:50px;
+	padding:5px;
+	float:left;
+	}
+div#footer{
+    text-align:justify;
+	background-color:#014709;
+	padding:30px;
+	margin-bottom:20px;
+	position:absolute;
+	left:100px;
+	width:1110px;
+	height:350px;
+	}	
+img  {
+	height:250px;
+	width:380px;
+	margin:15px;	
+    }
+h2    {
+	color:#014709;
+	}
+h3    {
+    color:#014709;
+	}
+span{
+	color:white;
+	}
+a#links{
+	color:white;
+	padding:15px;
+	text-decoration:none;
+	}
+a#links:visited{
+	color:white;
+	font-size:20px;
+	padding:10px 15px;
+	text-decoration:none;
+	}
+a:hover{
+	color:#8bb7d4;
+	font-weight:bolder;
+	text-decoration:none;
+	}
+a#backtotop{
+    background-color:#427a44;
+	color:white;
+	font-size:20px;
+	padding:10px 15px;
+	border:2px solid white;
+	}
